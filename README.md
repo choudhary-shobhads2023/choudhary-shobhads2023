@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 -->
  🌱 Aspiring Data Scientist
  
-🌱 I'm currently pursuing Post Graduate Program in Data Science and Business Analytics course from GrateLake Institute , April 2023 - April 2024 to present.
+🌱 Successfully Completed Post Graduate Program in Data Science and Business Analytics course from GrateLake Institute , April 2023 - April 2024 to present.
+
+Certificates:
+ ![image](https://github.com/choudhary-shobhads2023/choudhary-shobhads2023/assets/130852423/66a7200e-4eb9-47be-a52c-241a36a074a3)
+
 
 🌱 I have completed My Bachlor of Engineering in Information Technology from D.Y.Patil college of Engineering and Technology from Pune. 
 
